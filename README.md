@@ -1,8 +1,8 @@
 # Team Members
-  ..* Randall Glasgow
-  ..* Quintus Lamar
-  ..* Andrea Styles
-  ..* Katherine Twele
+  * Randall Glasgow
+  * Quintus Lamar
+  * Andrea Styles
+  * Katherine Twele
 # Product Vision
   1. For ... (product’s target market)
   2. Who/That ... (what need the product solves)
